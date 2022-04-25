@@ -23,5 +23,5 @@ Github Flavoured Markdown
 
 |Vorname|Nachname|Straße|Postleitzahl|
 |---    |---     |---   |---         |
-Mirco Klösener
+|Mirco| |Klösener|
 [Checkboxes](#Checkboxes) 
