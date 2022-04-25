@@ -1,7 +1,7 @@
 # Github Flavoured Markdown
 
 ## External Link
--[X] Checkbox
+* [X] Checkbox
 - [ ] https://help.github.com/en
 ## Internal Link
 - [X] Internal Link
