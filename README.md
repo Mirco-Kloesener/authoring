@@ -1,21 +1,21 @@
 # Github Flavoured Markdown
 
 ## External Link
-- [x] Checkbox
+- [x] [External Links](#External-Links)
 - [ ] https://help.github.com/en
 ## Internal Link
-- [X] Internal Link
+- [X] [Internal Link](#Internal-Link)
 [Bilder](images)
 ## Images
-- [X] Checkbox
+- [X] [Images](#Images)
 ![Pinguin](/images/logo.png) 
 ## Emojis
-- [X] Checkbox
+- [X] [Emojis](#Emojis)
 :bowtie:
 :smile:
 
 ## Tables
-- [X] Checkbox
+- [X] [Tables](#Tables)
 # authoring
 Github Flavoured Markdown
 
@@ -24,6 +24,7 @@ Github Flavoured Markdown
 |Vorname|Nachname|Straße|Postleitzahl|
 |---    |---     |---   |---         |
 |Mirco| Klösener|Germanen|99999|
+|Maik|Muster|Street|123456|
 <!-- Checkbox mit section jump -->
 [Image](#Images) 
 
