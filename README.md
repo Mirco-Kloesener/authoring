@@ -5,7 +5,7 @@
 - [ ] https://help.github.com/en
 ## Internal Link
 - [x] Checkbox
-[](images)
+[Bilder](images)
 ## Images
 - [x] Checkbox
 ![Pinguin](/images/logo.png) 
