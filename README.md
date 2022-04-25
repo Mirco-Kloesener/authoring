@@ -4,7 +4,7 @@
 - [x] [External Link](#External-Link)
 - [X] [Internal Link](#Internal-Link)
 - [X] [Images](#Images)
-- [X] [Emojis](#Emojis)## External Link
+- [X] [Emojis](#Emojis)
 - [X] [Tables](#Tables)
 ## External Link
 - [ ] https://help.github.com/en
