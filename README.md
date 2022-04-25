@@ -4,7 +4,7 @@
 - [x] Checkbox
 - [ ] https://help.github.com/en
 ## Internal Link
-- [x] Checkbox
+- [x] Internal Link
 [Bilder](images)
 ## Images
 - [x] Checkbox
