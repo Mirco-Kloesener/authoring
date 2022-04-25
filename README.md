@@ -1,21 +1,25 @@
 # Github Flavoured Markdown
 
+## Checkboxes
+- [x] [External Link](#External-Link)
+- [X] [Internal Link](#Internal-Link)
+- [X] [Images](#Images)
+- [X] [Emojis](#Emojis)## External Link
+- [X] [Tables](#Tables)
 ## External Link
-- [x] [External Links](#External-Links)
 - [ ] https://help.github.com/en
 ## Internal Link
-- [X] [Internal Link](#Internal-Link)
+
 [Bilder](images)
 ## Images
-- [X] [Images](#Images)
+
 ![Pinguin](/images/logo.png) 
 ## Emojis
-- [X] [Emojis](#Emojis)
+
 :bowtie:
 :smile:
 
-## Tables
-- [X] [Tables](#Tables)
+
 # authoring
 Github Flavoured Markdown
 
