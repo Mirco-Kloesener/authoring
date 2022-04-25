@@ -1,15 +1,14 @@
 # Github Flavoured Markdown
 
 ## External Link
-- [External link] Checkbox
+- [x] Checkbox
 - [ ] https://help.github.com/en
 ## Internal Link
 - [x] Checkbox
-- [ ] (assignments-authoring-images-logo.png)
-![](/images/logo.png) 
+[](images)
 ## Images
 - [x] Checkbox
-[Pinguin] (images/logo.png)
+![Pinguin](/images/logo.png) 
 ## Emojis
 - [x] Checkbox
 :bowtie:
